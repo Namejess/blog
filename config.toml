@@ -38,8 +38,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Menu config
 [menu]
-  [[menu.main]]
+[[menu.main]]
     weight = 1
+    identifier = "Home"
+    pre = ""
+    post = ""
+    name = "Home"
+    url = ""
+    title = ""
+  [[menu.main]]
+    weight = 2
     identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
@@ -64,6 +72,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     post = ""
     name = "About"
     url = "/about/"
+    title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "Portfolio"
+    pre = ""
+    post = ""
+    name = "Portfolio"
+    url = "https://namejess.github.io/"
     title = ""
 
 [params]
@@ -185,7 +201,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/content/images/avatar.png"
       #  title shown in home page (HTML format is supported)
       title = "🌈"
       # subtitle shown in home page (HTML format is supported)

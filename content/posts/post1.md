@@ -3,9 +3,10 @@ title: "Bienvenue dans le dev, voici la Roadmap de la terreur"
 date: 2022-12-26T15:52:35+01:00
 draft: false
 ---
+
 # <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"  />
 
-*Tu veux faire du développement? Tu vas voir c'est un super métier avec plein d'opportunités*
+_Tu veux faire du développement? Tu vas voir c'est un super métier avec plein d'opportunités_
 
 Oui. Oui oui en effet.
 
@@ -19,21 +20,25 @@ Mais commençons par le commencement. Je m'appelle Jessy et je suis apprenant en
 
 Beaucoup de veilles, beaucoup de vidéos, podcast, conférences, talks, articles, review...A croire que retourner les Internets est devenu mon quotidien. Et c'est tant mieux, car je suis un grand fan de la veille voyez-vous. C'est un peu comme un sport pour moi. Je me suis même inscrit à un challenge de veille pour 2023. Je vous en reparlerai.
 
-Blague à part, une vidéo m'a interloqué et mit le doigts sur quelque chose de profond dans mon esprit. 
+Blague à part, une vidéo m'a interloqué et mit le doigts sur quelque chose de profond dans mon esprit.
 
 C'est cette vidéo de [**FireShip**](https://www.youtube.com/watch?v=66tfvFeALBQ)
 
-[![](https://cdn.discordapp.com/attachments/830009390089764887/1060672755596525608/image.png)](https://www.youtube.com/watch?v=66tfvFeALBQ "How to ACTUALLY learn to code... 7 Roadmaps for 2023")
+<html>
+<body>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66tfvFeALBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
 
 Vous l'avez regardé ? Je n'en doute pas un seul instant.
 
-Et bien, vous savez ce qui se passe dans un esprit d'apprenant quand il voit une roadmap comme celle-ci ? 
+Et bien, vous savez ce qui se passe dans un esprit d'apprenant quand il voit une roadmap comme celle-ci ?
 
 ## La terreur.
 
 D'autant plus que je prépare une carrière, un métier. Mais...LEQUEL? Car j'ouvre une boite de Pandore absolument gigantesque. Voici comment cela a évolué dans mon esprit :
+
 - Le dev, c'est faire des sites web
 - Le dev, c'est faire des applications
 - Le dev, c'est faire des jeux vidéos
@@ -52,7 +57,7 @@ D'autant plus que je prépare une carrière, un métier. Mais...LEQUEL? Car j'ou
 
 Et ainsi de suite. Et je ne parle même pas des langages de programmation ici, mais bien d'environnement, de métiers, de compétences.
 
-Boite de Pandore. 
+Boite de Pandore.
 
 Le pire étant que je trouve tout intéressant.
 

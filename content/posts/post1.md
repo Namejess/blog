@@ -6,7 +6,7 @@ draft: false
 
 # <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"  />
 
-_Tu veux faire du développement? Tu vas voir c'est un super métier avec plein d'opportunités_
+_Tu veux faire du développement? Tu vas voir c'est un super métier avec pleins d'opportunités_
 
 Oui. Oui oui en effet.
 
@@ -16,7 +16,7 @@ Un petit peu de contexte. De storytelling. Je pourrais faire un disclaimer en di
 
 Partir dans tous les sens, un peu comme cette **Roadmap de la terreur** comme j'aime l'appeler affectueusement, tant elle m'a fait peur.
 
-Mais commençons par le commencement. Je m'appelle Jessy et je suis apprenant en programmation (les détails sont ici, dans [**About**](/about/)). Ce ne sont pas mes premiers pas dans l'IT car j'étais auparavant AdminSys (et je suis toujours un peu AdminSys, mais ça, c'est une autre histoire). Mais ce sont mes premiers dans le développement. Et comme tout apprenant, j'apprends. Beaucoup.
+Mais commençons par le commencement. Je m'appelle Jessy et je suis apprenant en programmation (les détails sont ici, dans [**About**](https://namejess.github.io/blog/about/)). Ce ne sont pas mes premiers pas dans l'IT car j'étais auparavant AdminSys (et je suis toujours un peu AdminSys, mais ça, c'est une autre histoire). Mais ce sont mes premiers dans le développement. Et comme tout apprenant, j'apprends. Beaucoup.
 
 Beaucoup de veilles, beaucoup de vidéos, podcast, conférences, talks, articles, review...A croire que retourner les Internets est devenu mon quotidien. Et c'est tant mieux, car je suis un grand fan de la veille voyez-vous. C'est un peu comme un sport pour moi. Je me suis même inscrit à un challenge de veille pour 2023. Je vous en reparlerai.
 

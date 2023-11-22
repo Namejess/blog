@@ -27,7 +27,7 @@ C'est cette vidéo de [**FireShip**](https://www.youtube.com/watch?v=66tfvFeALBQ
 <html>
 <body>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66tfvFeALBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66tfvFeALBQ?si=Loi7R9oe8mpeJP3C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </body>
 </html>
 

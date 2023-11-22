@@ -27,3 +27,16 @@ Etant dans une formation de concepteur développeur web, je me suis intéressé 
 L'un des avantages les plus importants des logiciels Suckless est leur simplicité. Contrairement à de nombreux logiciels modernes, les logiciels Suckless ne sont pas encombrés d'options et de fonctionnalités inutiles.
 
 Tout ça pour dire que mon apprentissage de [**Rust**](https://www.rust-lang.org/fr) va dans ce sens. Je vais essayer de faire des choses simples, avec des outils simples. Et si je dois utiliser des outils plus complexes, je vais essayer de comprendre comment ils fonctionnent et de les utiliser de manière simple.
+
+Pour le plaisir, voici la différence de nombre de lignes de code entre i3 et dwm :
+
+<img src="https://cdn.discordapp.com/attachments/1161206521972138007/1166376617514377256/image.png?ex=656f2ddf&is=655cb8df&hm=e9b884c19282584bde80331354b026315da8c6d16e2d2954c74a0c260bd6d6f8&"  />
+
+<img src="https://cdn.discordapp.com/attachments/1161206521972138007/1166376771931877466/image.png?ex=656f2e04&is=655cb904&hm=b5e1de6e44305526c125e2a38761391697f6fca05c0240e1455ad6782ad67dea&"  />
+
+On est sympa et on garde que le C chez i3, pour un total de 26000 lignes de code.
+
+Chez dwm, c'est 2500.
+
+Je ne sais pas vous, mais moi, ça me fait réfléchir.
+En plus de me faire peur.

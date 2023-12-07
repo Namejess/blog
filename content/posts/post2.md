@@ -38,5 +38,6 @@ On est sympa et on garde que le C chez i3, pour un total de 26000 lignes de code
 
 Chez dwm, c'est 2500.
 
+
 Je ne sais pas vous, mais moi, ça me fait réfléchir.
 En plus de me faire peur.
